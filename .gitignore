@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+*.pyd
+venv/
+.env
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# PyCharm
+.idea/
